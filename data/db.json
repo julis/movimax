@@ -1,0 +1,8 @@
+{
+  "ids": {
+    "Movie": 1
+  },
+  "models": {
+    "Movie": {}
+  }
+}
