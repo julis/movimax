@@ -1,8 +1,10 @@
 {
   "ids": {
-    "Movie": 1
+    "Movie": 2
   },
   "models": {
-    "Movie": {}
+    "Movie": {
+      "1": "{\"title\":\"Catch Me If You Can\",\"desc\":\"Drama movie\",\"releaseDate\":\"2022-03-26T17:48:24.426Z\",\"runtimeMinutes\":120,\"revenue\":\"$ 80M\",\"posterImage\":\"https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_.jpg\",\"id\":1}"
+    }
   }
 }
